@@ -5,3 +5,4 @@ Mail:yaa@adeo.com
 Phone number: NA
 Email:
 review feature
+checkout fixed
